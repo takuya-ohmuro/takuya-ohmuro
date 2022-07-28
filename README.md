@@ -6,13 +6,13 @@
 |---|-----|
 |Name|takuya ohmuro|
 |Age|28|
-|Storeアカウント|[@foobar](https://twitter.com/foobar)|
+|Store|[アカウント](https://apps.apple.com/jp/developer/takuya-ohmuro/id1523954162)|
 
 ## スキル
 ### 言語
-- Dart
-- Swift
-- Typescript
+- Dart(3年)
+- Swift(5年弱)
+- Typescript(1年強)
 
 ### フレームワーク
 
@@ -87,9 +87,18 @@
 
 ### 自身のスタートアップ・個人開発
 
+#### Fitness系のスタートアップ立ち上げ(自身のスタートアップ開発)
+　- ３人ほど誘いスタートアップチームを立ち上げました。現在はサービスの検証・要件定義などを行っています。
+
 #### Dear ライブハウス入場サービス(自身のスタートアップ開発) 
 * [AppleStore](https://apps.apple.com/jp/app/dear-%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AE%E5%85%A5%E5%A0%B4%E3%82%A2%E3%83%97%E3%83%AA/id1606303773)
 *現在は開発を停止しました。
 
 #### Luck Luck オンラインカードバトルゲーム(自身の個人開発)
 * [AppleStore](https://apps.apple.com/jp/app/luck-luck-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%90%E3%83%88%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0/id1594055585)
+
+https://user-images.githubusercontent.com/34786680/181406079-48f6b6b5-b9fc-4a6a-88d2-71405abf4833.mp4
+
+## 最後に
+
+- ここまで読んで頂きありがとうございます。機会がありましたら皆様から色々と学ばせてください。良いサービスを一緒に作れることを楽しみにしております。
